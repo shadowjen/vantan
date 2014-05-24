@@ -1,6 +1,6 @@
 	/* はじめてのc言語プログラム*/
 #include <stdio.h> /* printfを利用するために必要*/
-int main(void)
+int main()
 {
 	int i;
 	for (i = 0; i < 10; i++){

@@ -185,3 +185,9 @@ cat helloWorld.c
 cat helloWorld.c
 cc helloWorld.c
 ./a.exe
+cc /home/vantan/helloWorld.c
+./a.exe
+ls
+cc helloworld.c
+./a.exe
+;

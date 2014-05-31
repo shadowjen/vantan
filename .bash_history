@@ -191,3 +191,10 @@ ls
 cc helloworld.c
 ./a.exe
 ;
+5 pwb
+/home/vantan
+cs 
+ cs
+cd
+cd /cygdrive/c/Users/vantan/
+ cd /cygdrive/c/Users/vantan/Documents/GitHub/
